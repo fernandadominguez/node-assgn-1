@@ -1,1 +1,2 @@
-# node-assgn-1-currency
+# NodeJS - Asssignment 1
+## Currency Module
