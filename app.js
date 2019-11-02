@@ -1,5 +1,3 @@
-// See ../README.md for the details of this assignment
-
 // Load currency module
 const currency = require("./currency");
 
